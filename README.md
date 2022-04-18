@@ -1,6 +1,6 @@
 ## Todo App
 
-### React native
+#### React native
 -----------------------------------
 
 - You can delete the todo if you delay pressing for a long time on it

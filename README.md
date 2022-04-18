@@ -1,10 +1,12 @@
 ## Todo App
-------------------------------------------
+
 React native
 -----------------------------------
 
 - You can delete the todo if you delay pressing for a long time on it
 - You can't add an empty todo
+
+------------------------------------------
 
 Dependencies
 -----------------------------------
